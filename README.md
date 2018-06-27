@@ -1,2 +1,8 @@
 # docker-dnscrypt
 Dockerized DNSCrypt Proxy
+
+```
+docker build --rm -t fffaraz/dnscrypt .
+docker run --rm -it -p 53:53 -p 53:53/udp fffaraz/dnscrypt
+https://github.com/jedisct1/dnscrypt-proxy
+```
