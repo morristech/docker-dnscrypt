@@ -12,3 +12,4 @@ https://github.com/jedisct1/dnscrypt-proxy
 * https://github.com/oznu/docker-dns-ad-blocker
 * https://github.com/dnscryptio/dnscrypt-proxy-docker
 * https://github.com/melchor629/docker-dnscrypt-proxy
+* https://github.com/pi-hole/pi-hole/wiki/DNSCrypt-2.0
